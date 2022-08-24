@@ -1,2 +1,2 @@
 # shailaputri-portfolio-webiste
- This is my portfolio website
+ Welcome to my portfolio website. It is to showcase my projects for neogCamp levelZero. 
